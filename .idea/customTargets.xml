@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="53e37be3-341d-4fa5-9ce3-dd5366739057" name="custombt0" projectName="shadow">
+      <configuration id="73c20d3b-b56f-474b-9099-26ddc391541c" name="custombt0">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>
